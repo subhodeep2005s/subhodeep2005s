@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/subhodeep2005s/subhodeep2005s/main/name.svg" alt="Subhodeep Sarkar" />
+  <img src="[https://raw.githubusercontent.com/subhodeep2005s/subhodeep2005s/main/name.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Db6NJtmSE_a29zX3hknLp32hVq0UbwEBRAX2rAQLjRGQuz4MathQmZc&s=10)" alt="Subhodeep Sarkar" />
 </h1>
 
 <p align="center">
